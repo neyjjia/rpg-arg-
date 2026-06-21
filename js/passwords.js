@@ -19,9 +19,9 @@
    ========================================================= */
 
 const passwords = {
-  "ancora": "pages/documento01.html",
-  "vigia-13": "pages/documento02.html",
-  "testes": "pages/teste.html",
+  "ancora": "pages/ancora.html",
+  "apocalipse": "pages/documento02.html",
+  "tempestade": "pages/teste.html",
   // Adicione novas senhas abaixo seguindo o mesmo padrao:
   // "suasenha": "pages/sua-pagina.html",
 };
