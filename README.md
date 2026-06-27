@@ -1,12 +1,5 @@
 # PROJETO ÂNCORA
 
-Site estático para um RPG de mesa no estilo **ARG** (Alternate Reality Game),
-com visual de computador antigo, arquivos confidenciais e investigação
-paranormal. Funciona apenas com **HTML, CSS e JavaScript puro** — sem servidor,
-sem banco de dados e sem dependências pagas.
-
----
-
 ## 📁 Estrutura do projeto
 
 ```
@@ -60,7 +53,7 @@ A senha é o lado esquerdo; o caminho da página é o lado direito.
 2. Edite os textos, títulos e imagens marcados no arquivo.
 3. Em `js/passwords.js`, crie uma senha apontando para o novo arquivo.
 
-Pronto — você pode criar dezenas de páginas repetindo esses passos.
+— você pode criar dezenas de páginas repetindo esses passos.
 
 ### Trocar imagens
 Coloque o novo arquivo em **`assets/images/`** e, no HTML da página, troque o
@@ -103,42 +96,3 @@ velocidade (ms por letra) com `data-velocidade`:
 ```
 
 ---
-
-## 🚀 Como publicar (gratuito)
-
-O site é 100% estático, então basta enviar os arquivos. Escolha uma opção:
-
-### GitHub Pages
-1. Crie um repositório e envie todos os arquivos.
-2. Em **Settings → Pages**, selecione a branch `main` e a pasta `/ (root)`.
-3. Acesse o link gerado. (O arquivo `.nojekyll` já está incluído para tudo
-   funcionar, inclusive o `_modelo.html`.)
-
-### Cloudflare Pages
-1. Conecte seu repositório em **Pages → Create a project**.
-2. Em *Build settings*, deixe o comando de build **vazio** e a pasta de saída
-   como `/` (raiz).
-
-### Netlify
-1. Arraste a pasta do projeto direto em [app.netlify.com/drop](https://app.netlify.com/drop),
-   **ou** conecte o repositório.
-2. Sem comando de build; pasta de publicação = raiz do projeto.
-
----
-
-## 🛠️ Rodar localmente (opcional)
-
-Como são páginas separadas, abra o `index.html` direto no navegador **ou**
-use um servidor local simples:
-
-```bash
-npx serve .
-```
-
----
-
-## ⚠️ Observação importante
-
-Por ser um site estático, as senhas ficam visíveis no código do navegador.
-Isso é perfeito para um **jogo de ARG** (descobrir a senha faz parte da
-diversão), mas **não** use este sistema para proteger dados reais e sensíveis.
