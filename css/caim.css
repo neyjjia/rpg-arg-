@@ -9,13 +9,13 @@
 /* ---------- 1. VARIAVEIS DE TEMA ---------- */
 :root {
   /* Cores base (mude aqui para alterar o tema todo) */
-  --cor-fundo: #0a0e0c;          /* fundo principal (quase preto) */
-  --cor-fundo-painel: #0f1512;   /* paineis e caixas */
-  --cor-borda: #1d2a22;          /* bordas discretas */
-  --cor-texto: #c8d6cc;          /* texto comum */
-  --cor-texto-suave: #6f8377;    /* texto secundario / legendas */
-  --cor-destaque: #39ff6a;       /* verde fosforo - cor de destaque */
-  --cor-alerta: #ff3b3b;         /* vermelho - erros / acesso negado */
+  --cor-fundo: #0A0A0A;          /* fundo principal (quase preto) */
+  --cor-fundo-painel: #121212;   /* paineis e caixas */
+  --cor-borda: #262626;          /* bordas discretas */
+  --cor-texto: #D9D9D9;          /* texto comum */
+  --cor-texto-suave: #858585;    /* texto secundario / legendas */
+  --cor-destaque: #FFFFFF;       /* verde fosforo - cor de destaque */
+  --cor-alerta: #FFFFFF;         /* vermelho - erros / acesso negado */
 
   /* Tipografia */
   --fonte-mono: "Courier New", "Lucida Console", monospace;
