@@ -20,7 +20,7 @@
 
 const passwords = {
   "ancora": "pages/ancora.html",
-  "apocalipse": "pages/apocalipse.html",
+  "2023": "pages/apocalipse.html",
   "tempestade": "pages/tempestade.html",
   "caim": "pages/o homem com pupilas brancas.html",
   "adam": "pages/erro404.html",
