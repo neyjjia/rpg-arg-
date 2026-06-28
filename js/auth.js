@@ -45,7 +45,8 @@
         }, 600);
       } else {
         // ACESSO NEGADO ---------------------------------------
-        mostrarStatus("ACESSO NEGADO", true);
+        const mensagem = deniedMessages[valor] || "ACESSO NEGADO";
+        mostrarStatus(mensagem, true);
         // animacao discreta de "tremor" no formulario
         form.classList.remove("tremor");
         void form.offsetWidth; // truque para reiniciar a animacao
