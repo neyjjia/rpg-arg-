@@ -45,7 +45,7 @@
         }, 600);
       } else {
         // ACESSO NEGADO ---------------------------------------
-        const mensagem = deniedMessages[valor] || "ACESSO NEGADO";
+        const mensagem = deniedMessages[valor] || "SENHA INEXISTENTE";
         mostrarStatus(mensagem, true);
         // animacao discreta de "tremor" no formulario
         form.classList.remove("tremor");
