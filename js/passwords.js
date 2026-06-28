@@ -45,7 +45,6 @@ const deniedMessages = {
   "Apocalipse": "NÃO SERIA TÃO ÓBVIO",
   "ele": "NÃO NOS DEIXOU SE QUER SEU NOME",
   "ludo": "NÃO :)"
-   
 };
   // Adicione novas senhas abaixo seguindo o mesmo padrao:
   // "suasenha": "pages/sua-pagina.html",
