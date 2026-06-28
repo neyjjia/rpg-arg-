@@ -23,6 +23,7 @@ const passwords = {
   "2023": "pages/apocalipse.html",
   "caim": "pages/o homem com pupilas brancas.html",
   "adam": "pages/erro404.html",
+  "sombras": "pages/ordem.html",
   "teste": "pages/teste.html",
 };
 
@@ -44,7 +45,13 @@ const deniedMessages = {
   "bibliotecario": "☜︎🕆︎ ☝︎⚐︎💧︎❄︎⚐︎ 👎︎☜︎ ☜︎☠︎✋︎☝︎💣︎✌︎💧︎",
   "Apocalipse": "NÃO SERIA TÃO ÓBVIO",
   "ele": "NÃO NOS DEIXOU SE QUER SEU NOME",
-  "ludo": "NÃO :)",
+  "sogeki": "TERIA DESMONTADO ESTA MÁQUINA",
+  "zero": "-. .- --- / . / --- / -- . ... -- --- / -- ..- -. -.. ---",
+  "blake": "NUNCA FOI CERTO CHAMAR DE FAMÍLIA",
+  "emily": "SERÁ QUE ALGUM DIA SERÁ CAPAZ DE SE PERDOAR?",
+  "elder": "CONDENADO A PERMANECER VIVO",
+  "alice": "A HERDEIRA",
+  "arquiteto": "SUA FOME NUNCA SERÁ SACIADA",
 };
   // Adicione novas senhas abaixo seguindo o mesmo padrao:
   // "suasenha": "pages/sua-pagina.html",
