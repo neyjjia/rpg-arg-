@@ -25,6 +25,16 @@ const passwords = {
   "caim": "pages/o homem com pupilas brancas.html",
   "adam": "pages/erro404.html",
   "teste": "pages/teste.html",
+};
+
+const deniedMessages = {
+  "merus": "CREDENCIAL REVOGADA",
+  "hermes": "FUNCIONÁRIO NÃO ENCONTRADO",
+  "caim": "O PACIENTE NÃO POSSUI MAIS REGISTROS",
+  "observador": "VOCÊ NÃO DEVERIA SABER ESSE NOME",
+  "echo": "...VOCÊ CONSEGUE ME OUVIR?",
+  "lucas": "USUÁRIO REMOVIDO DO SISTEMA"
+};
   // Adicione novas senhas abaixo seguindo o mesmo padrao:
   // "suasenha": "pages/sua-pagina.html",
-};
+
