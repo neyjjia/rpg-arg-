@@ -41,6 +41,7 @@ const deniedMessages = {
   "william": "QUAL DOS DOIS?",
   "dce": "UM SONHO SOBRE DIAS MELHORES... OU NÃO",
   "armando": "NUNCA SUBESTIME UM HOMEM COM UM CACHORRO NO FIM DO MUNDO",
+  "yegor": "К чёрту государство!",
 };
   // Adicione novas senhas abaixo seguindo o mesmo padrao:
   // "suasenha": "pages/sua-pagina.html",
