@@ -30,7 +30,6 @@ const passwords = {
 const deniedMessages = {
   "lilith": "É TUDO CULPA DELA",
   "ivo": "Brincando com o tempo de novo?",
-  "yegor": "К чёрту государство!",
   "ordem": "Luz e ...",
   "dce": "Um sonho sobre dias melhores... ou não",
   "armando": "Nunca subestime um homem com um cachorro no fim do mundo",
