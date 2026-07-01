@@ -32,13 +32,10 @@ const deniedMessages = {
   "ordem": "LUZ E ...",
   "lilith": "É TUDO CULPA DELA",
   "ivo": "BRINCANDO COM O TEMPO DE NOVO?",
-  "jhonatan": "O REFLEXO NA TELA",
+  "jhonatan": "MAIS UM CICLO",
   "marcos": "O QUE ELA IRIA PENSAR DISSO?",
   "alan": "TA NA HORA DO SHOW PORRA!!",
-  "theo": {
-        text: "RODA DE NOVO!",
-        color: "#482FFA"
-    },
+  "theo": "RODA DE NOVO!",
   "verissimo": "OS OLHOS SE FECHARAM",
   "salvatore": "COLECIONADOR DE DEUSES",
   "wiliam": "QUAL DOS DOIS?",
